@@ -1,3 +1,4 @@
+> **⚠️ 已迁移**：本项目已合并进 [Tofuzhu/lightning-capsule](https://github.com/Tofuzhu/lightning-capsule) monorepo 的 `wear/` 目录。本仓库仅作历史存档，不再维护。
 # Lightning Capsule — Wear OS App
 
 极简 Wear OS 原生 App：手表上**按住说话** → 松手自动上传到 Lightning Capsule API → 显示 “✓ 已记录”。
